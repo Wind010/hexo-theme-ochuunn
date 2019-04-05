@@ -1,13 +1,14 @@
 # head
 menu:
-  カタログ/（目录）: /archives
+  Blog: /blog
+  Archives: /archives
   # sitemap: /sitemap.xml
   # other menus
 
 rss: /atom.xml
 favicon: /favicon.png
 
-date_format: "YYYY - MM - DD"
+date_format: "MM - DD - YYYY"
 
 google_verification: false  # your token
 google_analytics: false     # your id
@@ -23,7 +24,7 @@ valine:
   verify: false
   avatar: "retro" # ''/mp/identicon/monsterid/wavatar/robohash/retro/hide
   pageSize: 20
-  lang: "zh-cn"
+  lang: "En-us"
   placeholder: "balabala~"
   avatarForce: false
   visitor: true # 阅读量统计
